@@ -59,5 +59,4 @@
   <project path="system/extras" name="platform/system/extras" remote="x86" revision="ics-x86" />
   <project path="system/vold" name="platform/system/vold" remote="x86" revision="ics-x86" />
 
-  <project path="JDD/manifest" name="atom_manifest" remote="JDD" revision="master">
 </manifest>
