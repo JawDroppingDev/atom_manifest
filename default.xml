@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="x86"
-           fetch="http://git.android-x86.org/" />
+           fetch="https://git.android-x86.org/" />
 
   <remote  name="JDD"
            fetch="https://github.com/JawDroppingDev/" />
