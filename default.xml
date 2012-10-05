@@ -5,7 +5,7 @@
            fetch="git://android-x86.git.sf.net/gitroot/android-x86/x86/" />
 
   <remote  name="JDD"
-           fetch=".." />
+           fetch="git@github.com:JawDroppingDev/" />
 
   <default sync-j="16" />
 
@@ -59,4 +59,5 @@
   <project path="system/extras" name="platform/system/extras" remote="x86" revision="ics-x86" />
   <project path="system/vold" name="platform/system/vold" remote="x86" revision="ics-x86" />
 
+  <project path="JDD/manifest" name="atom_manifest" remote="x86" revision="master" />
 </manifest>
