@@ -240,6 +240,4 @@
   <project path="prebuilt" name="platform/prebuilt" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
-
-  <project path="manifest" name="atom_manifest" remote="JDD" revision="master" />
 </manifest>
